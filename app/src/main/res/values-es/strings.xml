@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guardián de la puntuación</string>
+    <string name="player_1_scored">Jugador 1 anotado</string>
+    <string name="player_2_scored">Jugador 2 anotado</string>
+    <string name="reset">Reiniciar</string>
+</resources>
